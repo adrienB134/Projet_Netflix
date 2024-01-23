@@ -1,0 +1,6 @@
+boto3
+pandas 
+gunicorn 
+scikit-surprise
+psycopg2-binary
+fastapi
