@@ -1,6 +1,12 @@
 boto3
 pandas 
 gunicorn 
-scikit-surprise
+# scikit-surprise
 psycopg2-binary
 fastapi
+uvicorn
+mlflow
+numpy
+fsspec
+s3fs==2023.12.2
+cinemagoer
